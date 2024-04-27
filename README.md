@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ize_Cubz I have been a developer for about 4 years now, and I'm still to this day improving my own code.
+I'm Avian (aka Ize_Cubz) I have been a developer for about 4 years now, and I'm still to this day improving my own code.
 <img src="https://raw.githubusercontent.com/FLAME878/FLAME878/master/undraw_source_code_xx2e.png" alt="Coding banner">
 
 
